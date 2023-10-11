@@ -1,6 +1,6 @@
 # Spreadsheet
 This project involves the development of a custom spreadsheet application using C++ and ANTLR. The primary goal of this project is to create a flexible and functional spreadsheet tool that can parse, evaluate, and manage mathematical formulas and expressions, as well as text-based content in cells.
-# Descripiton
+# Description
 This console-based spreadsheet application is purpose-built for educational use, offering practical hands-on experience in data management and mathematical computations. It features advanced formula parsing and evaluation, robust exception management, and structured data organization. While not intended for real-world applications, this project serves as a valuable educational tool, providing a simplified yet comprehensive platform for individuals interested in deepening their understanding of data management and computational mathematics within an educational context.
 
 **Key Features and Implementation**:
